@@ -8,7 +8,8 @@ Use this theme if you ❤️️️️️❤️️️️️❤️️️️️ LOV
 
 ```sh
 git clone git@github.com:ecbrodie/robbyrussell-WIP-theme.git
-mv PATH/TO/robbyrussell-WIP.zsh-theme $ZSH_CUSTOM/themes
+mkdir -p $ZSH_CUSTOM/themes
+cp PATH/TO/robbyrussell-WIP.zsh-theme $ZSH_CUSTOM/themes
 ```
 
 And then set the theme in your `.zshrc`:
